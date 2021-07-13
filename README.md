@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @caleidon
+- 👀 I'm working on a procedurally generated colony simulator with pitch black nights and an atmospheric ambience
+- 🌱 I’m currently learning C# and Unity
