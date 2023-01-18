@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a procedurally generated colony simulator with pitch black nights and an atmospheric ambience**
 
-- 🌱 I’m currently learning **how to control luck and turn it into a tangible respurce**
+- 🌱 I’m currently learning **how to control luck and turn it into a tangible resource**
 
 - 💬 Ask me about **game development, fitness, or the meaning of life**
 
