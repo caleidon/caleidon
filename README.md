@@ -13,9 +13,9 @@
 
 - ⚡ Fun fact **- the inside of your body is pitch black**
 
-Vast experience in all areas of computer science, ranging from high-level languages such as C#/.NET, Java, TS/JS and Python to lower-level languages such as Rust. Proficient in front-end technologies and frameworks such as HTML, CSS, Tailwind, React, and Svelte, among many others.
+Vast experience in all areas of computer science, ranging from high-level languages such as C#/.NET, Java, TS/JS, and Python to lower-level languages such as Rust. Proficient in front-end technologies and frameworks such as HTML, CSS, Tailwind, React, and Svelte, among many others. Working on a procedurally generated colony simulator in Unity.
 
-Love to spread a cheerful atmosphere. I believe that there is no such thing as a problem too difficult to solve with the proper teamwork and that the function of good software is to make the complex appear simple.
+Love to spread a cheerful atmosphere. There is no such thing as a problem too difficult to solve with proper teamwork and the function of good software is to make the complex appear simple.
 
 ---
 ## 🔮 Languages and tools I use to create magic:
