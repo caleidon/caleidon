@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Alan</h1>
-<h3 align="center">A well-rounded developer with a burning desire to create magical user experiences</h3>
+<h3 align="center">Well-rounded developer with a burning desire to create magical user experiences</h3>
 
 - 🔭 I’m currently working on **a procedurally generated colony simulator with pitch black nights and an atmospheric ambience**
 
@@ -12,6 +12,10 @@
 - 📄 Let's do some #networking on [https://www.linkedin.com/in/alanvranic/](https://www.linkedin.com/in/alanvranic/)
 
 - ⚡ Fun fact **- the inside of your body is pitch black**
+
+Vast experience in all areas of computer science, ranging from high-level languages such as C#/.NET, Java, TS/JS and Python to lower-level languages such as Rust. Proficient in front-end technologies and frameworks such as HTML, CSS, Tailwind, React, and Svelte, among many others.
+
+Love to spread a cheerful atmosphere. I believe that there is no such thing as a problem too difficult to solve with the proper teamwork and that the function of good software is to make the complex appear simple.
 
 ---
 ## 🔮 Languages and tools I use to create magic:
