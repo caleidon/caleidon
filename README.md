@@ -1,19 +1,17 @@
 <h1 align="center">Hey, I'm Alan</h1>
 <h3 align="center">Well-rounded developer with a burning desire to create magical user experiences</h3>
 
-- 🔭 I’m currently working on **a procedurally generated colony simulator with pitch black nights and an atmospheric ambience**
+- 🔭 I’m currently working on **a procedurally generated colony simulator with pitch-black nights and an atmospheric ambiance**
 
 - 🌱 I’m currently learning **how to control luck and turn it into a tangible resource**
 
 - 💬 Ask me about **game development, fitness, or the meaning of life**
 
-- 📫 Shoot me an email at **caleidoneidon@gmail.com**
-
-- 📄 Let's do some #networking on [https://www.linkedin.com/in/alanvranic/](https://www.linkedin.com/in/alanvranic/)
+- 📫 Shoot me an email at **alan.vranic2@gmail.com**
 
 - ⚡ Fun fact **- the inside of your body is pitch black**
 
-Vast experience in all areas of computer science, ranging from high-level languages such as C#/.NET, Java, TS/JS, and Python to lower-level languages such as Rust. Proficient in front-end technologies and frameworks such as HTML, CSS, Tailwind, React, and Svelte, among many others. Working on a procedurally generated colony simulator in Unity.
+Vast experience in many areas of computer science, ranging from high-level languages such as C#/.NET, Java, TS/JS, and Python to lower-level languages such as Rust. Proficient in front-end technologies and frameworks such as HTML, CSS, Tailwind, React, and Svelte, among many others.
 
 I love to spread a cheerful atmosphere and believe the function of good software is to make the complex appear simple.
 
