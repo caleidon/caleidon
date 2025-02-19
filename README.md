@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Alan</h1>
-<h3 align="center">Well-rounded developer with a burning desire to create magical user experiences</h3>
+<h3 align="center">Well-rounded full-stack wizard with a burning desire to create magical user experiences</h3>
 
 - 🔭 I’m currently working on **a procedurally generated colony simulator with pitch-black nights and an atmospheric ambiance**
 
